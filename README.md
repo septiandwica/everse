@@ -1,10 +1,7 @@
 # Compuverse
 
-Welcome to **Compuverse**, a Flutter project designed to kickstart your mobile application development journey!
+Welcome to **Everse**, a Flutter project designed to kickstart your mobile application development journey!
 
-- [Septian Dwi Cahyo](https://github.com/septiandwica)
-- [Samuel George Sasaki](https://github.com/samuelsasaki)
-- [Salsabil Maheswari](https://github.com/SalsabilMaheswari)
 
 ## Getting Started
 
@@ -25,7 +22,7 @@ Make sure you have the following installed on your system:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/septiandco/Compuverse.git
+   git clone https://github.com/septiandwica/everse.git
    cd Compuverse
    ```
 
