@@ -1,4 +1,4 @@
-# Compuverse
+# Everse
 
 Welcome to **Everse**, a Flutter project designed to kickstart your mobile application development journey!
 
